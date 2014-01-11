@@ -16,7 +16,7 @@ var cssSupport = require("bloody-csssupport")
 
 ## API
 
-### cssSupport(property) -> string||null`
+### `cssSupport(property) -> string||null`
 
 Checks if `property` (mush be camelCased)  is available. Returns the (optionaly prefixed) property or null. 
 
